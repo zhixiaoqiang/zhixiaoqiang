@@ -37,9 +37,6 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#886](https://github.com/alibaba/hooks/pull/886) in [alibaba/hooks](https://github.com/alibaba/hooks)
-<!--END_SECTION:activity-->
-
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
