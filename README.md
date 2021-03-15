@@ -37,9 +37,6 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/4) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
-<!--END_SECTION:activity-->
-
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
