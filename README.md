@@ -37,6 +37,12 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/5) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
+2. 💪 Opened PR [#5](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/5) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
+3. 🎉 Merged PR [#4](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/4) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
+4. 💪 Opened PR [#4](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/4) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
+5. ❌ Closed PR [#31](https://github.com/anuraghazra/anuraghazra/pull/31) in [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra)
+<!--END_SECTION:activity-->
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
