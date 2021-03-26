@@ -37,11 +37,11 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/5) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
-2. 💪 Opened PR [#5](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/5) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
-3. 🎉 Merged PR [#4](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/4) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
-4. 💪 Opened PR [#4](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/4) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
-5. ❌ Closed PR [#31](https://github.com/anuraghazra/anuraghazra/pull/31) in [anuraghazra/anuraghazra](https://github.com/anuraghazra/anuraghazra)
+1. 💪 Opened PR [#30](https://github.com/zthxxx/react-dev-inspector/pull/30) in [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector)
+2. 🎉 Merged PR [#5](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/5) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
+3. 💪 Opened PR [#5](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/5) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
+4. 🎉 Merged PR [#4](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/4) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
+5. 💪 Opened PR [#4](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/4) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
 <!--END_SECTION:activity-->
 
 <!--
