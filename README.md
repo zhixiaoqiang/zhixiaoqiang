@@ -37,11 +37,11 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/zthxxx/react-dev-inspector/pull/30) in [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector)
-2. 🎉 Merged PR [#5](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/5) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
-3. 💪 Opened PR [#5](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/5) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
-4. 🎉 Merged PR [#4](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/4) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
-5. 💪 Opened PR [#4](https://github.com/zhixiaoqiang/zhixiaoqiang/pull/4) in [zhixiaoqiang/zhixiaoqiang](https://github.com/zhixiaoqiang/zhixiaoqiang)
+1. 💪 Opened PR [#32](https://github.com/zthxxx/react-dev-inspector/pull/32) in [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector)
+2. ❌ Closed PR [#31](https://github.com/zthxxx/react-dev-inspector/pull/31) in [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector)
+3. 🎉 Merged PR [#1](https://github.com/zhixiaoqiang/react-dev-inspector/pull/1) in [zhixiaoqiang/react-dev-inspector](https://github.com/zhixiaoqiang/react-dev-inspector)
+4. 💪 Opened PR [#1](https://github.com/zhixiaoqiang/react-dev-inspector/pull/1) in [zhixiaoqiang/react-dev-inspector](https://github.com/zhixiaoqiang/react-dev-inspector)
+5. 💪 Opened PR [#31](https://github.com/zthxxx/react-dev-inspector/pull/31) in [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector)
 <!--END_SECTION:activity-->
 
 <!--
