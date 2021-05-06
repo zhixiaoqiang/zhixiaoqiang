@@ -7,7 +7,7 @@
 Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China.
 
 - 🔭 I’m currently working on my project dna
-- 🌱 I’m currently learning Egg & Typescript
+- 🌱 I’m currently learning Typescript & JavaScript Basic
 
 **Languages and Tools:**  
 
