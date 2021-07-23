@@ -37,11 +37,11 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/zthxxx/react-dev-inspector/pull/84) in [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector)
-2. ❗️ Opened issue [#83](https://github.com/zthxxx/react-dev-inspector/issues/83) in [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector)
-3. 🗣 Commented on [#103](https://github.com/stackblitz/webcontainer-core/issues/103) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
+1. 💪 Opened PR [#75](https://github.com/slidevjs/docs-cn/pull/75) in [slidevjs/docs-cn](https://github.com/slidevjs/docs-cn)
+2. 💪 Opened PR [#84](https://github.com/zthxxx/react-dev-inspector/pull/84) in [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector)
+3. ❗️ Opened issue [#83](https://github.com/zthxxx/react-dev-inspector/issues/83) in [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector)
 4. 🗣 Commented on [#103](https://github.com/stackblitz/webcontainer-core/issues/103) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
-5. ❌ Closed PR [#31](https://github.com/zthxxx/react-dev-inspector/pull/31) in [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector)
+5. 🗣 Commented on [#103](https://github.com/stackblitz/webcontainer-core/issues/103) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
 <!--END_SECTION:activity-->
 
 <!--
