@@ -43,12 +43,4 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 4. 🗣 Commented on [#103](https://github.com/stackblitz/webcontainer-core/issues/103) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
 5. 🗣 Commented on [#103](https://github.com/stackblitz/webcontainer-core/issues/103) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
 <!--END_SECTION:activity-->
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhixiaoqiang&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhixiaoqiang&repo=anuraghazra.github.io&theme=radical" />
-</a>
- -->
+![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
