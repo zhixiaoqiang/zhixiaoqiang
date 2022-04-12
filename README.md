@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/vuejs/repl/pull/31) in [vuejs/repl](https://github.com/vuejs/repl)
-2. 🗣 Commented on [#1](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/1) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. ❗️ Opened issue [#1](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/1) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. ❗️ Opened issue [#29](https://github.com/vuejs/repl/issues/29) in [vuejs/repl](https://github.com/vuejs/repl)
-5. 💪 Opened PR [#10475](https://github.com/youzan/vant/pull/10475) in [youzan/vant](https://github.com/youzan/vant)
+1. 🎉 Merged PR [#3](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/3) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. 🎉 Merged PR [#2](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/2) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. ❗️ Opened issue [#4](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/4) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. 💪 Opened PR [#3](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/3) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. 💪 Opened PR [#2](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/2) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
