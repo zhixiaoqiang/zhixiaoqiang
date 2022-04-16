@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/3) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. 🎉 Merged PR [#2](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/2) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. ❗️ Opened issue [#4](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/4) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. 💪 Opened PR [#3](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/3) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. 💪 Opened PR [#2](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/2) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. ❗️ Closed issue [#6](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/6) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. ❗️ Closed issue [#5](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/5) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. ❗️ Opened issue [#6](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/6) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. ❗️ Opened issue [#5](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/5) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. 🎉 Merged PR [#3](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/3) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
