@@ -1,7 +1,7 @@
 ### Hi there, I'm [Zhixiaoqiang!](https://zhixiaoqiang.github.io/zhixiaoqiang) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[My Github Resume](https://resume.github.io/?zhixiaoqiang) created by [GitHub Résumé](https://github.com/resume/resume.github.com)
 
 ![](https://komarev.com/ghpvc/?username=zhixiaoqiang&color=green)
-
 <br />
 
 Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China.
