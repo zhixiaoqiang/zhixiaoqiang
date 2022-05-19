@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/13) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. 🎉 Merged PR [#14](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/14) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. ❗️ Closed issue [#1](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/1) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. 🗣 Commented on [#1](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/1) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. 🗣 Commented on [#14](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/14) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. ❗️ Opened issue [#15](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/15) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. 🎉 Merged PR [#13](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/13) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. 🎉 Merged PR [#14](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/14) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. ❗️ Closed issue [#1](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/1) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. 🗣 Commented on [#1](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/1) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
