@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12427](https://github.com/facebook/create-react-app/pull/12427) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-2. ❗️ Opened issue [#12426](https://github.com/facebook/create-react-app/issues/12426) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-3. ❗️ Opened issue [#150078](https://github.com/microsoft/vscode/issues/150078) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗️ Opened issue [#15](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/15) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. 🎉 Merged PR [#13](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/13) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. 🗣 Commented on [#150078](https://github.com/microsoft/vscode/issues/150078) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#150078](https://github.com/microsoft/vscode/issues/150078) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#150078](https://github.com/microsoft/vscode/issues/150078) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#150078](https://github.com/microsoft/vscode/issues/150078) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 💪 Opened PR [#12427](https://github.com/facebook/create-react-app/pull/12427) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
