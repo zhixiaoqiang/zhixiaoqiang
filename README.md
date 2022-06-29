@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/25) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. 💪 Opened PR [#25](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/25) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. 💪 Opened PR [#24](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/24) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. 🗣 Commented on [#23](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/23) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. 💪 Opened PR [#23](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/23) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. 🎉 Merged PR [#22](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/22) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. ❌ Reopened PR [#22](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/22) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. ❌ Closed PR [#22](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/22) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. 🗣 Commented on [#25](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/25) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. 💪 Opened PR [#25](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/25) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
