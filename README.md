@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/27) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. 💪 Opened PR [#26](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/26) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. 🎉 Merged PR [#22](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/22) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. ❌ Reopened PR [#22](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/22) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. ❌ Closed PR [#22](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/22) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. 🎉 Merged PR [#26](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/26) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. 💪 Opened PR [#27](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/27) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. 💪 Opened PR [#26](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/26) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. 🎉 Merged PR [#22](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/22) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. ❌ Reopened PR [#22](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/22) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
