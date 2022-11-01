@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/48) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. ❗️ Closed issue [#15](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/15) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. 🗣 Commented on [#15](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/15) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. 🎉 Merged PR [#46](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/46) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. 🎉 Merged PR [#47](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/47) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. ❌ Closed PR [#48](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/48) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. 💪 Opened PR [#49](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/49) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. 💪 Opened PR [#48](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/48) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. ❗️ Closed issue [#15](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/15) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. 🗣 Commented on [#15](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/15) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
