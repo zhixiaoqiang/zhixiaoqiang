@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/55) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. 💪 Opened PR [#54](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/54) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. 🎉 Merged PR [#50](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/50) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. ❌ Closed PR [#51](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/51) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. ❌ Closed PR [#53](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/53) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. 🎉 Merged PR [#55](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/55) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. 🎉 Merged PR [#54](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/54) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. 💪 Opened PR [#55](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/55) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. 💪 Opened PR [#54](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/54) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. 🎉 Merged PR [#50](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/50) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
