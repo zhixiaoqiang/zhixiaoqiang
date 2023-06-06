@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/zhixiaoqiang/yapi2code/issues/9) in [zhixiaoqiang/yapi2code](https://github.com/zhixiaoqiang/yapi2code)
-2. ❌ Closed PR [#68](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/68) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. 💪 Opened PR [#69](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/69) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. 🚀 Published release [v1.16.6-free](https://github.com/v1.16.6-free) in [zhixiaoqiang/chathub-free](https://github.com/zhixiaoqiang/chathub-free)
-5. 🎉 Merged PR [#1](https://github.com/zhixiaoqiang/chathub-free/pull/1) in [zhixiaoqiang/chathub-free](https://github.com/zhixiaoqiang/chathub-free)
+1. 🎉 Merged PR [#66](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/66) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. 🔒 Closed issue [#9](https://github.com/zhixiaoqiang/yapi2code/issues/9) in [zhixiaoqiang/yapi2code](https://github.com/zhixiaoqiang/yapi2code)
+3. ❌ Closed PR [#68](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/68) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. 💪 Opened PR [#69](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/69) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. 🚀 Published release [v1.16.6-free](https://github.com/v1.16.6-free) in [zhixiaoqiang/chathub-free](https://github.com/zhixiaoqiang/chathub-free)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
