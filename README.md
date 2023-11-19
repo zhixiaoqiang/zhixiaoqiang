@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/79#issuecomment-1817344976) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. 🗣 Commented on [#72](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/72#issuecomment-1809481066) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. ❌ Closed PR [#72](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/72) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. 🗣 Commented on [#72](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/72#issuecomment-1806976055) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. 🎉 Merged PR [#34](https://github.com/zhixiaoqiang/chathub-free/pull/34) in [zhixiaoqiang/chathub-free](https://github.com/zhixiaoqiang/chathub-free)
+1. 🔒 Closed issue [#3](https://github.com/zhixiaoqiang/yapi2code/issues/3) in [zhixiaoqiang/yapi2code](https://github.com/zhixiaoqiang/yapi2code)
+2. ❌ Closed PR [#78](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/78) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. ❌ Closed PR [#74](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/74) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. ❌ Closed PR [#77](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/77) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. ❌ Closed PR [#76](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/76) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
