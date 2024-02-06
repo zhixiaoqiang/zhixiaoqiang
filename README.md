@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/83#issuecomment-1925551211) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. ❌ Closed PR [#83](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/83) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. 🗣 Commented on [#84](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/84#issuecomment-1925551204) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. 🗣 Commented on [#81](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/81#issuecomment-1915999942) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. 🗣 Commented on [#81](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/81#issuecomment-1913837510) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. 🗣 Commented on [#83](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/83#issuecomment-1928711341) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. 💪 Opened PR [#88](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/88) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. 🗣 Commented on [#83](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/83#issuecomment-1925551211) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. ❌ Closed PR [#83](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/83) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. 🗣 Commented on [#84](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/84#issuecomment-1925551204) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
