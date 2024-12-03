@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#82](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/82) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. 🗣 Commented on [#99](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/99#issuecomment-2443125193) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. 💪 Opened PR [#99](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/99) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. 🔓 Reopened issue [#4](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/4) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. 🔒 Closed issue [#4](https://github.com/zhixiaoqiang/sfc-playground-vant/issues/4) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. ❌ Closed PR [#85](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/85) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. 🗣 Commented on [#100](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/100#issuecomment-2513479448) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. 💪 Opened PR [#100](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/100) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. ❌ Closed PR [#82](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/82) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. 🗣 Commented on [#99](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/99#issuecomment-2443125193) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
