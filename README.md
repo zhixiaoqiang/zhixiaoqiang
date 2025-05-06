@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#102](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/102) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. 🗣 Commented on [#105](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/105#issuecomment-2853186638) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. 💪 Opened PR [#105](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/105) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. 🗣 Commented on [#104](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/104#issuecomment-2853186295) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. 💪 Opened PR [#104](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/104) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. 🔒 Closed issue [#3](https://github.com/zhixiaoqiang/antd-components-mcp/issues/3) in [zhixiaoqiang/antd-components-mcp](https://github.com/zhixiaoqiang/antd-components-mcp)
+2. 🎉 Merged PR [#8](https://github.com/zhixiaoqiang/antd-components-mcp/pull/8) in [zhixiaoqiang/antd-components-mcp](https://github.com/zhixiaoqiang/antd-components-mcp)
+3. ❌ Closed PR [#102](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/102) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. 🗣 Commented on [#105](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/105#issuecomment-2853186638) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. 💪 Opened PR [#105](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/105) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
