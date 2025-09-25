@@ -28,8 +28,8 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#109](undefined) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. ❌ Labeled PR [#109](undefined) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. 🗣 Commented on [#104](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/104#issuecomment-3263399787) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. 🗣 Commented on [#105](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/105#issuecomment-3263399773) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 3. ❌ Labeled PR [#109](undefined) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 4. ❌ Labeled PR [#109](undefined) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 5. 💪 Opened PR [#109](undefined) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
