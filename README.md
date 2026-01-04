@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/98#issuecomment-3698249756) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. 🗣 Commented on [#114](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/114#issuecomment-3698249128) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. ℹ️ Labeled PR [#114](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/114) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. ℹ️ Labeled PR [#114](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/114) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. 💪 Opened PR [#114](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/114) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. 🗣 Commented on [#111](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/111#issuecomment-3707580324) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. ❌ Closed PR [#111](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/111) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. 🗣 Commented on [#98](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/98#issuecomment-3698249756) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. 🗣 Commented on [#114](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/114#issuecomment-3698249128) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. ℹ️ Labeled PR [#114](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/114) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
