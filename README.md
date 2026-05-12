@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#119](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/119) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. ℹ️ Labeled PR [#119](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/119) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. ℹ️ Labeled PR [#119](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/119) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. ℹ️ Labeled PR [#119](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/119) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. 💪 Opened PR [#119](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/119) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. ❌ Closed PR [#116](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/116) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. ℹ️ Labeled PR [#120](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/120) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. 🗣 Commented on [#120](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/120#issuecomment-4427835542) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. ℹ️ Labeled PR [#120](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/120) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. 💪 Opened PR [#120](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/120) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
