@@ -28,8 +28,8 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#122](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/122) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. ℹ️ Labeled PR [#122](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/122) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. 🗣 Commented on [#117](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/117#issuecomment-5557382052) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. ℹ️ Labeled PR [#117](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/117) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 3. 💪 Opened PR [#122](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/122) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 4. 🗣 Commented on [#119](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/119#issuecomment-4965737733) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 5. ❌ Closed PR [#119](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/119) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
