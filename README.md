@@ -28,10 +28,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#122](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/122#issuecomment-5887606166) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-2. 🗣 Commented on [#121](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/121#issuecomment-5887605539) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-3. ❌ Closed PR [#121](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/121) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-4. ❌ Closed PR [#122](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/122) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
-5. 🗣 Commented on [#121](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/121#issuecomment-5843839644) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+1. ℹ️ Labeled PR [#124](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/124) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+2. 🗣 Commented on [#125](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/125#issuecomment-6013830916) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+3. ℹ️ Labeled PR [#125](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/125) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+4. ℹ️ Labeled PR [#124](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/124) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
+5. ℹ️ Labeled PR [#124](https://github.com/zhixiaoqiang/sfc-playground-vant/pull/124) in [zhixiaoqiang/sfc-playground-vant](https://github.com/zhixiaoqiang/sfc-playground-vant)
 <!--END_SECTION:activity-->
 ![Alt](https://repobeats.axiom.co/api/embed/a5f334c4d3696f2add1fcd0dacb9b5fd7331b504.svg "Repobeats analytics image")
